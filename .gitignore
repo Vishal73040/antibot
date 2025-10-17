@@ -1,0 +1,50 @@
+# Virtual environment
+venv/
+.env
+.venv
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Chrome profiles
+chrome_profile_*/
+user_data_*/
+temp_chrome_*/
+
+# Results
+results/
+*.png
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Local Python environment
+pyenv-win/

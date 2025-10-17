@@ -1,0 +1,8 @@
+selenium==4.15.0
+undetected-chromedriver==3.5.5
+psutil==5.9.6
+requests==2.31.0
+pyautogui==0.9.54
+keyboard==0.13.5
+mouse==0.7.1
+webdriver-manager==4.0.1
